@@ -29,6 +29,7 @@ This system manages core travel-related data such as travelers, flights, hotels,
 ---
 
 ## 🗂️ Project Structure
+```
 travel-management-system/
 │
 ├── sql/
@@ -44,6 +45,7 @@ travel-management-system/
 │
 ├── README.md # This file
 └── LICENSE # (Optional)
+```
 
 ---
 
